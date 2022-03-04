@@ -200,6 +200,7 @@ input::placeholder {
         flex: 1.25;
         height: 60rem;
         text-align: unset;
+        margin-top: 0;
         padding: 7rem;
         padding-right: 0;
         background-image: url(images/bg-pattern-desktop.svg);
