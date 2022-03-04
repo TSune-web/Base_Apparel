@@ -28,12 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![Base Apparel](images/Base_Apparel.png)
 
 
 ### Links
 
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Base Apparel Live](https://tsune-web.github.io/Base_Apparel/)
 
 ## My process
 
